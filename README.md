@@ -1,0 +1,1 @@
+Pada pada crud ini di coba dengan menambahkan node modulenya, lalu ubah http://localhost/ujian_pweb/be/read.php seperti berikut. jika mendownload file ini buatlah folder lagi dengan nama seterah kalian dan taruh jnama folder kalian di localhost pada file jsxnya.
